@@ -1,0 +1,12 @@
+brave/webmvc/AppConfiguration.class
+brave/webmvc/TracingConfigurationJaeger$RequestBuilderCarrier.class
+brave/webmvc/Initializer.class
+brave/webmvc/TracingConfigurationJaeger.class
+brave/webmvc/TracingConfigurationJaeger$1.class
+brave/webmvc/MQInitializer$EmbeddedBroker.class
+brave/webmvc/MQInitializer$MyExceptionListener.class
+brave/webmvc/Frontend.class
+brave/webmvc/Backend.class
+brave/webmvc/DataSourceInitializer.class
+brave/webmvc/TracingConfiguration.class
+brave/webmvc/MQInitializer.class

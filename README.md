@@ -25,8 +25,8 @@ java -jar zipkin.jar
 
 2. To start jaeger
 ```
-docker pull jaegertracing/all-in-one:1.10
-docker run   --rm   --name jaeger   -p6831:6831/udp   -p16686:16686   jaegertracing/all-in-one:1.10
+docker pull jaegertracing/all-in-one:1.55
+docker run   --rm   --name jaeger   -p6831:6831/udp   -p16686:16686   jaegertracing/all-in-one:1.55
 ```
 
 ## Building and Running the app
